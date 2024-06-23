@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\bin\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.exe
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\bin\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.deps.json
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\bin\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.runtimeconfig.json
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\bin\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.runtimeconfig.dev.json
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\bin\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.dll
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\bin\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.pdb
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\obj\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\obj\Release\netcoreapp3.1\_202113709049_Meryem_Çirkin_Final_Proje.Form1.resources
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\obj\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\obj\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\obj\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\obj\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.AssemblyInfo.cs
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\obj\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\obj\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.dll
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\obj\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.pdb
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje\obj\Release\netcoreapp3.1\202113709049 Meryem Çirkin Final Proje.genruntimeconfig.cache

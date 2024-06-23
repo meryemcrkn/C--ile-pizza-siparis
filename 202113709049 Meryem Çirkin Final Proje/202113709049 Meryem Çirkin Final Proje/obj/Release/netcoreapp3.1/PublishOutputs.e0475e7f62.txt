@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje.exe
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje.dll
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje.deps.json
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje.runtimeconfig.json
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin Final Proje\202113709049 Meryem Çirkin Final Proje.pdb

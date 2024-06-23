@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "202113709049 Meryem Çirkin Final Proje/1.0.0": {
+        "runtime": {
+          "202113709049 Meryem Çirkin Final Proje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "202113709049 Meryem Çirkin Final Proje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
